@@ -46,7 +46,7 @@ Feel free to fork and open PRs if you want to suggest improvements or add more p
 
 - Github: https://github.com/adityasolanki192004-dot/
 
-- LinkedIn: https://linkedin.com/in/adityasolanki
+- LinkedIn: aditya-solanki-565081207
 
 ## 📄 License
 This project is open source and available under the MIT License.
