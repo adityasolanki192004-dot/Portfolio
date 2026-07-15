@@ -36,7 +36,7 @@ Virtual herbal garden visualization using image processing techniques.
 ## 📦 Deployment
 The portfolio is deployed on Vercel for fast, global access:
 
-- https://portfolio-shauryam.vercel.app
+- https://portfolio-aditya.vercel.app
 
 ## 🤝 Contribution
 Feel free to fork and open PRs if you want to suggest improvements or add more projects.
