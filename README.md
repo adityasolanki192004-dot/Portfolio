@@ -1,4 +1,4 @@
-# Shauryam Singh's Portfolio
+# Aditya Solanki's Portfolio
 Welcome to the source code for Shauryam Singh's Portfolio, showcasing a curated collection of projects demonstrating expertise in front-end and back-end development, UI/UX design, and innovative problem-solving.
 
 ## 📂 Project Highlights
@@ -42,13 +42,13 @@ The portfolio is deployed on Vercel for fast, global access:
 Feel free to fork and open PRs if you want to suggest improvements or add more projects.
 
 ## 📫 Contact
-- Email: shauryamsingh9@gmail.com
+- Email: adityasolanki192004@gmail.com
 
-- GitHub: https://github.com/Shauryam-singh
+- Github: https://github.com/adityasolanki192004-dot/
 
-- LinkedIn: https://linkedin.com/in/shauryamsingh
+- LinkedIn: https://linkedin.com/in/adityasolanki
 
 ## 📄 License
 This project is open source and available under the MIT License.
 
-Made with ❤️ by Shauryam Singh
+Made with ❤️ by Aditya Solanki
